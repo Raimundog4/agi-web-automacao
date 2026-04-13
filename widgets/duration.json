@@ -1,0 +1,1 @@
+[{"uid":"770eeac88c019b5f","name":"Pesquisar artigo com termo válido","time":{"start":1776095720668,"stop":1776095745716,"duration":25048},"status":"failed","severity":"normal"},{"uid":"9f25b6662fa7bde9","name":"Pesquisar artigo com termo inexistente","time":{"start":1776095745734,"stop":1776095762143,"duration":16409},"status":"failed","severity":"normal"}]
