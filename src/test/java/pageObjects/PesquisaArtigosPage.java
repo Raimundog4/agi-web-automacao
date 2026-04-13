@@ -78,6 +78,7 @@ public class PesquisaArtigosPage {
 		}
 		assertTrue("A página de resultados não foi carregada!", 
 				elementoVisivel(textoResultadosEncontrados));
+		descerScroll(textoResultadosEncontrados);
 		assertTrue("O termo pesquisado não foi exibido no cabeçalho dos resultados.",textoResultadosEncontrados.findElement(By.xpath("//span[text()='" + termoPesquisa + "']")).isDisplayed());;
 	}
 	
