@@ -1,3 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","21697","Pesquisar artigo com termo válido","","Tue Apr 14 23:32:01 UTC 2026","broken","Tue Apr 14 23:32:23 UTC 2026","","Pesquisa de artigos no Blog do Agi","Pesquisar artigo com termo válido",""
-"","12521","Pesquisar artigo com termo inexistente","","Tue Apr 14 23:32:23 UTC 2026","failed","Tue Apr 14 23:32:35 UTC 2026","","Pesquisa de artigos no Blog do Agi","Pesquisar artigo com termo inexistente",""
+"","26254","Pesquisar artigo com termo válido","","Tue Apr 14 23:40:20 UTC 2026","broken","Tue Apr 14 23:40:46 UTC 2026","","Pesquisa de artigos no Blog do Agi","Pesquisar artigo com termo válido",""
+"","4262","Pesquisar artigo com termo inexistente","","Tue Apr 14 23:40:46 UTC 2026","passed","Tue Apr 14 23:40:50 UTC 2026","","Pesquisa de artigos no Blog do Agi","Pesquisar artigo com termo inexistente",""
